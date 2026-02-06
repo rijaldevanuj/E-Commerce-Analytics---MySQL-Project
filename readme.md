@@ -79,7 +79,13 @@ Additionally, KPI computation and RFM segmentation transform raw transactional d
 # 📈 Key Outcomes
 
 📊 Increased customer retention by ~20% through cohort-based behavioral insights
+
 🛒 Reduced checkout-stage funnel drop-off by ~15% by identifying abandonment bottlenecks
+
 💰 Improved revenue contribution from high-value customers by ~30% using RFM segmentation
+
 🎯 Enabled KPI-driven decision-making using conversion rate, AOV, and repeat purchase metrics
+
+
+
 Overall, this project highlights how structured SQL analytics can directly support revenue growth, customer retention, and strategic decision-making in an e-commerce environment.
