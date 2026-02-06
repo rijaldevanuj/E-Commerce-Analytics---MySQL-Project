@@ -1,6 +1,6 @@
 
 
-🛒 E-Commerce Analytics using MySQL
+##E-Commerce Analytics using MySQL
 
 📌 Project Overview
 
