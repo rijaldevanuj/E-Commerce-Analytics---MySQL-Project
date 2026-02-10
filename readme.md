@@ -3,8 +3,8 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
 ![Analytics](https://img.shields.io/badge/Domain-E--Commerce%20Analytics-green)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
 ---
 
 ## 📌 Overview
@@ -12,7 +12,7 @@ Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 This project performs **end-to-end E-Commerce data analysis using MySQL**, focusing on **customer behavior, sales performance, conversion efficiency, and retention trends**.
 
 The goal is to demonstrate how **structured SQL analysis** can solve real-world business problems and generate **actionable insights that drive revenue growth and customer retention**.
-
+Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## 🎯 Business Objectives
