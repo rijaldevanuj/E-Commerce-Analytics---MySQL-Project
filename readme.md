@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
 ![Analytics](https://img.shields.io/badge/Domain-E--Commerce%20Analytics-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-
+Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## 📌 Overview
