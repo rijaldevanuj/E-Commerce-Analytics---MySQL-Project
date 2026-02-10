@@ -12,7 +12,8 @@
 This project performs **end-to-end E-Commerce data analysis using MySQL**, focusing on **customer behavior, sales performance, conversion efficiency, and retention trends**.
 
 The goal is to demonstrate how **structured SQL analysis** can solve real-world business problems and generate **actionable insights that drive revenue growth and customer retention**.
-Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Dataset used - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce**.
 ---
 
 ## 🎯 Business Objectives
