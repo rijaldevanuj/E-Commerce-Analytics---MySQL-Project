@@ -85,7 +85,7 @@ Additionally, KPI computation and RFM segmentation transform raw transactional d
 
 💰 Improved revenue contribution from high-value customers by ~30% using RFM segmentation
 
-🎯 Enabled KPI-driven decision-making using conversion rate, AOV, and repeat purchase metrics
+🎯 Enabled KPI-driven decision-making using conversion rate, AOV, and repeat purchase metrics.
 
 
 
